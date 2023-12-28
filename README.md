@@ -3,6 +3,8 @@
 This is ceku's ✨ _special_ ✨ readme file!
 🌱 I’m currently learning Python
 🔭 I'm currently work as an IT Risk Manager
+🧑‍🎓 I’m currently also studying Management Information Systems
+
 
 <!--
 **cekuai/cekuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
